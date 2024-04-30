@@ -13,6 +13,8 @@ Arquivo PAPMEM
 Aprender a fazer arquivos tipo projeto em C++
 Telegram - AREF vol 08
 Provas ENADE Eng Elétrica
+Livros de Pedro e Igot na Amazon.com
+
 
 
 *********************
